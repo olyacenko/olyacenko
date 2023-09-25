@@ -1,8 +1,9 @@
-<h1 align="center"> Hi there, I'm Olya Yatsenko 👋 </h1>
-<h1 align="center"> Quality Assurance Engineer, QA_Manual_Engineer </h1>
+<h1 align="center">QA_Manual_Engineer</h1>
 
+![image](https://github.com/olyacenko/olyacenko/blob/main/header.png)
 - 🌱 I’m currently learning Software Testing
-- 📫 How to reach me:
+
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:olyacenko1@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/olyacenko/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat)](https://t.me/olyacenko)
 
 
 
