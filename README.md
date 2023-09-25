@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Olya Yatsenko 👋 </h1>
+<h1 align="center"> Quality Assurance Engineer, QA_Manual_Engineer </h1>
+
+- 🌱 I’m currently learning Software Testing
+- 📫 How to reach me:
+
+
+
 
 <!--
 **olyacenko/olyacenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
