@@ -1,4 +1,4 @@
-![image](https://github.com/olyacenko/olyacenko/blob/main/header.png)
+![header](https://github.com/olyacenko/olyacenko/blob/main/header.png)
 - 🌱 I’m currently learning Software Testing
 
 - 📫 How to reach me:
